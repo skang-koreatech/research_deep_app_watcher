@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EyeWatcher</string>
+    <string name="LOG_TAG">EyeWatcher</string>
+</resources>
